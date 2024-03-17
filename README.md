@@ -2,6 +2,8 @@
 
 Lambda de Autenticação
 
+Vídeo Explicativo: https://www.youtube.com/watch?v=W_S5j6gb9Ks
+
 ## 👨‍💻 Integrantes
 Edgar Santos,
 Kauan Falcão,
